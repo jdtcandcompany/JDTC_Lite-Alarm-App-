@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.JTCJTCC:JT-Framework:225b8254fe@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a42db2adf5717e90a4a9b87c463ad159/transformed/jetified-JT-Framework-225b8254fe/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a42db2adf5717e90a4a9b87c463ad159/transformed/jetified-JT-Framework-225b8254fe/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a42db2adf5717e90a4a9b87c463ad159/transformed/jetified-JT-Framework-225b8254fe/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.JTCJTCC/JT-Framework/225b8254fe/900e9d1fb4e00aa095a889d64101f825414a1982/JT-Framework-225b8254fe-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
